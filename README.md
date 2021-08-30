@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iMakishi
+- 👋 Hi, I’m Maximiliano E. Lutz AKA @iMakishi.
 - 👀 I’m interested in Video Games in general, developing and testing them. I also enjoy working on the frontend development process.
 - 🌱 I’m currently learning Python, JavaScript and a little C++ every now and then.
 - 💞️ I’m looking to collaborate on anything that requieres user interaction, wheather that'd be in a videogame or the frontend of a website or an application.
