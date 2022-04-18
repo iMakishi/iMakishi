@@ -1,14 +1,14 @@
-- 👋 Hello there, my name is Maximiliano E. Lutz AKA @iMakishi and I'm an aspiring Python Developer 🔰.
-- 👀 I’m interested in fullstack Python development at the moment, although I really enjoy working at the frontend of applications, and I'm also interested application testing. There's something about finding flaws in a script that really pumps me up to write my own code in an efficent, working and beautiful way. 
-- 🌱 I’m currently learning Python on my own through reading material and completing my certification on the language on freeCodeCamp.
-- 💞️ I’m looking to collaborate mostly on anything related to the Python language. If it brings knowledge to the table that can help improve my skills, I'm all for it, and if it doesn't, I'll just add it to one of accomplishments. There's nothing such as a bad experience.
+- 👋 Hello there, my name is Maximiliano E. Lutz AKA @iMakishi and I'm an aspiring Full Stack Python Developer 🔰.
+- 👀 I’m interested in fullstack Python development at the moment, although I and also interested application testing. There's something about finding flaws in a script that really pumps me up to write my own code in an efficent, working and beautiful way. 
+- 🌱 I’m currently learning Python on my own through practice, reading material and completing certifications through coding camps such as freeCodeCamp or Codecademy. Python can be such an easy language to learn but it sure takes a lot of effort to master it and I look foward to become a developer who does.
+- 💞️ I’m looking to collaborate mostly on anything related to the Python language. If it brings knowledge to the table that can help improve my skills, I'm all for it, and if it doesn't, I'll just add it to one of accomplishments. Every grain of knowledge helps, even if it's completely unrelated to the subject at hand.
 - 📫 You can reach me either via email (maximiliano.lutz1997@gmail.com) or on Discord (iMakishi.#5426) where I'm always online and available.
 
 Thank you for taking an interest in my profile and my work content. I'm open to and appreciate any help, constructive criticism and guidance you wish to provide me. I will always be grateful for it.
 
 Enjoy.
 
-- 📌 PS: I know it's weird to have such a large meme on the frontpage of my profile, but this picture couldn't better describe it. 
+- 📌 PS: I apologize, I know it's weird and a bit unprofessional perhaps to have such a large meme on the frontpage of my profile, but I like to think this picture, couldn't better describe my work.
 
 ![caption](https://i.kym-cdn.com/entries/icons/facebook/000/028/021/work.jpg)
 
