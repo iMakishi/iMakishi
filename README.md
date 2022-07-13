@@ -12,12 +12,12 @@ My name is Maximiliano E Lutz
 Junior Python Developer
 -----------------------
 
-I am a self-taught developer looking to gain practical experience in the technology sector and learn new methodologies around Python & SQL syntaxes and ultimately pave my way into Data Analytics.
+I am a self-taught Python/SQL/JavaScript developer looking to gain practical experience in the technology sector (particulary in software development or data anaysis) and learn new skills, concepts and methodologies around Python/SQL/JavaScript syntaxes that can help me boost my career and ultimately pave my way either into Software Development or Data Analytics.
 
-*   🌍  I'm based in Struppen, Saxony, Germany.
+*   🌍  I'm based in Buenos Aires, Argentina (Soon moving to Berlin, Germany).
 *   ✉️  You can contact me at [maximiliano.lutz1997@gmail.com](mailto:maximiliano.lutz1997@gmail.com)
-*   🧠  I'm learning Data Analysis on freeCodeCamp.org
-*   🤝  I'm open to collaborating on anything related to Python, SQL and data analysis in general.
+*   🧠  I'm currently completing my JavaScript Algortihms and Data Structures Certification on freeCodeCamp.org. My next goal will be to either complete the Frontend Development Libraries Certifications or the Data Analysis with Python Certification.
+*   🤝  I'm open to collaborating on anything related to Python, SQL, JavaScript and software development.
 
 ### Skills
 
@@ -33,7 +33,7 @@ I am a self-taught developer looking to gain practical experience in the technol
 <p align="left">
 <a href="https://discord.com/users/iMakishi.#5426" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/iMakishi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/maximiliano-e-lutz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/maximiliano-esteban-lutz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 
