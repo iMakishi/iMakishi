@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 👋 Hi there!
 ------------
 
-My name is Maximiliano E Lutz
+My name is Maximiliano Esteban Lutz
 =============================
 
 Junior Python Developer
@@ -14,7 +14,7 @@ Junior Python Developer
 
 I am a self-taught Python/SQL/JavaScript developer looking to gain practical experience in the technology sector (particulary in software development or data anaysis) and learn new skills, concepts and methodologies around Python/SQL/JavaScript syntaxes that can help me boost my career and ultimately pave my way either into Software Development or Data Analytics.
 
-*   🌍  I'm based in Buenos Aires, Argentina (Soon moving to Berlin, Germany).
+*   🌍  I'm based in Berlin, Germany.
 *   ✉️  You can contact me at [maximiliano.lutz1997@gmail.com](mailto:maximiliano.lutz1997@gmail.com)
 *   🧠  I'm currently completing my JavaScript Algortihms and Data Structures Certification on freeCodeCamp.org. My next goal will be to either complete the Frontend Development Libraries Certifications or the Data Analysis with Python Certification.
 *   🤝  I'm open to collaborating on anything related to Python, SQL, JavaScript and software development.
@@ -37,9 +37,9 @@ I am a self-taught Python/SQL/JavaScript developer looking to gain practical exp
 </p>
 
 
-Thank you for taking an interest in my profile and my work content. I'm open to and appreciate any help, constructive criticism and guidance you wish to provide me. I will always be grateful for it.
+Thank you for taking an interest in my profile and my portfolio. I'm open to and appreciate any help, constructive criticism and guidance you wish to provide me. I will always be grateful for it.
 
 
-📌 PS: I apologize, I know it's weird and a bit unprofessional perhaps to have such a large meme on the frontpage of my profile, but I like to think this picture, couldn't better describe my work.
+📌 PS: If you're reading this and you're a recruiter, I'd like to apologize. I know, It's weird and a bit unprofessional perhaps to have such a large meme on the frontpage of my profile decription. I like to think that this picture represents and describes my passion for programming and the dedication I give my scripts.
 
 ![caption](https://i.kym-cdn.com/entries/icons/facebook/000/028/021/work.jpg)
