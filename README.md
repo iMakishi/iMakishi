@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 My name is Maximiliano Esteban Lutz
 =============================
 
-Junior Python Developer
+Junior Developer
 -----------------------
 
 I am a self-taught Python/SQL/JavaScript developer looking to gain practical experience in the technology sector (particulary in software development or data anaysis) and learn new skills, concepts and methodologies around Python/SQL/JavaScript syntaxes that can help me boost my career and ultimately pave my way either into Software Development or Data Analytics.
