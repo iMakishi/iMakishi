@@ -42,4 +42,4 @@ Thank you for taking an interest in my profile and my portfolio. I'm open to and
 
 📌 PS: If you're reading this and you're a recruiter, I'd like to apologize. I know, It's weird and a bit unprofessional perhaps to have such a large meme on the frontpage of my profile decription. I like to think that this picture represents and describes my passion for programming and the dedication I give my scripts.
 
-![caption](https://i.kym-cdn.com/entries/icons/facebook/000/028/021/work.jpg)
+<img src="https://i.kym-cdn.com/entries/icons/facebook/000/028/021/work.jpg" width="125px">
